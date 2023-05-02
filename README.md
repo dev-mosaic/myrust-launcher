@@ -1,4 +1,4 @@
-## Latest: 0x294 + 1.2.1 | ``MyRust Launcher``
+## Latest: 0x294 + 1.2.3 | ``MyRust Launcher``
 
 Официальный сайт: **[www.my-rust.ru](https://www.my-rust.ru)**
 Игровой магазин: **[www.my-rust.ru/shop](https://myforcerust.gamestores.app/#/app/store/)**
